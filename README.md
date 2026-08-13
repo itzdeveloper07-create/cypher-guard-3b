@@ -1,5 +1,5 @@
 # cypher-guard-3b
-Enterprise-grade AI safety guardrail model based on Qwen2.5-3B, achieving 98.80% accuracy on 1000 jailbreak prompts. Developed under Sky Matrix World.
+Enterprise-grade AI safety guardrail model based on Qwen2.5-3B, achieving 99.40% accuracy on 1000 jailbreak prompts. Developed under Sky Matrix World.
 
 # CYPHER-GUARD-3B 🛡️
 > Enterprise-grade AI Safety Guardrail & Prompt Firewall Model
