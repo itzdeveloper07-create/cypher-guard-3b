@@ -13,7 +13,7 @@ Developed under **Sky Matrix World**.
 ## 📊 Benchmark & Performance
 Tested rigorously on an extreme dataset consisting of mixed safe prompts and hardcore jailbreaks:
 * **Total Prompts Tested:** 1,000 (532 Safe / 468 Unsafe)
-* **Final Accuracy:** **98.80%**
+* **Final Accuracy:** **99.40%**
 * **False Positives:** Minimized using strict system prompt engineering and low-temperature inference.
 
 ---
